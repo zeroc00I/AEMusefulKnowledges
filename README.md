@@ -4,6 +4,8 @@
 https://www.slideshare.net/0ang3el/aem-hacker-approaching-adobe-experience-manager-webapps-in-bug-bounty-programs
 https://speakerdeck.com/0ang3el/hunting-for-security-bugs-in-aem-webapps?slide=57
 
+#Video
+https://www.youtube.com/watch?v=RFzO2506S5g (from https://hackerone.com/reports/672243)
 # Amazing WriteUps
 https://medium.com/@jonathanbouman/reflected-xss-at-philips-com-e48bf8f9cd3c
 
