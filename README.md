@@ -1,5 +1,12 @@
 # AEMusefulKnowledges
 
+## Slides
+https://www.slideshare.net/0ang3el/aem-hacker-approaching-adobe-experience-manager-webapps-in-bug-bounty-programs
+https://speakerdeck.com/0ang3el/hunting-for-security-bugs-in-aem-webapps?slide=57
+
+# Amazing WriteUps
+https://medium.com/@jonathanbouman/reflected-xss-at-philips-com-e48bf8f9cd3c
+
 ## __author__ = 'raz0r' (via aemscan repo)
 
 /usr/local/lib/python2.7/dist-packages/aemscan-1.0-py2.7.egg/aemscan/data/aem-default-creds.txt
