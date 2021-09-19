@@ -255,3 +255,6 @@ aparker@geometrixx.info:aparker
 /etc/mobile/useragent-test.html
 /etc/reports/diskusage.html
 ```
+
+# More paths
+https://github.com/emadshanab/Adobe-Experience-Manager/blob/main/aem-paths.txt
